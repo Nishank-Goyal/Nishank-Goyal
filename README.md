@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nishank Goyal</h1>
 <h3 align="center">Full-stack Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/PT7vc9gvdkMzf7L18”>
+<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/8927701?v=4”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishank-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="nishank-goyal" /> </p>
 
